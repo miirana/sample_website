@@ -1,0 +1,26 @@
+{
+  "name": "three.js",
+  "version": "1.0.0",
+  "description": "trying",
+  "main": "three.js",
+  "dependencies": {
+    "three": "^0.124.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miiran.github.io/sample_website.git"
+  },
+  "keywords": [
+    "keyword"
+  ],
+  "author": "Miirana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miiran.github.io/sample_website/issues"
+  },
+  "homepage": "https://github.com/Miiran.github.io/sample_website#readme"
+}
